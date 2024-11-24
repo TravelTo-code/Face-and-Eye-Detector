@@ -1,1 +1,1 @@
-# real-time-face-and-eye-detection
+# It is a real time face and eye detection program using opencv. 
